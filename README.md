@@ -7,7 +7,7 @@
 
 <img align="left" width=35% src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ruturaj-gh&exclude_repo=github-readme-stats,ruturaj-gh.github.io)](https://github.com/ruturaj-gh/github-readme-stats"/>
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <h1> "IDE/Compilers"</h1>
 <img align="left"  src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=black"/>
 <img align="left"  src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=black"/>
