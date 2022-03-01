@@ -22,7 +22,7 @@
 
 ![Alt Text](https://c.tenor.com/58DNSt-Lvw0AAAAM/corgi-computer.gif)
 
-![](https://komarev.com/ghpvc/?username=ruturaj-gh&color=green)
+
 
 
 
