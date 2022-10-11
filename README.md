@@ -1,7 +1,7 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruturaj-gh&show_icons=true&theme=radical) -->
 
 
-
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 
 <img align="left" width=60% src ="https://github-readme-stats.vercel.app/api?username=ruturaj-gh&show_icons=true&theme=radical"/>
 
