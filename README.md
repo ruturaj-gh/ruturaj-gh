@@ -3,7 +3,7 @@
 
 
 <img align="left" width=60% src ="https://github-readme-stats.vercel.app/api?username=ruturaj-gh&show_icons=true&theme=radical"/>
-
+[![@ruturaj_gh's Holopin board](https://holopin.me/ruturaj_gh)](https://holopin.io/@ruturaj_gh)
 <img align="left" width=35% src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ruturaj-gh&exclude_repo=github-readme-stats,ruturaj-gh.github.io)](https://github.com/ruturaj-gh/github-readme-stats"/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
