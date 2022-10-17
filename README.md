@@ -1,16 +1,16 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruturaj-gh&show_icons=true&theme=radical) -->
 
-
+[![@ruturaj_gh's Holopin board](https://holopin.me/ruturaj_gh)](https://holopin.io/@ruturaj_gh)
 
 <img align="left" width=60% src ="https://github-readme-stats.vercel.app/api?username=ruturaj-gh&show_icons=true&theme=radical"/>
-[![@ruturaj_gh's Holopin board](https://holopin.me/ruturaj_gh)](https://holopin.io/@ruturaj_gh)
 <img align="left" width=35% src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ruturaj-gh&exclude_repo=github-readme-stats,ruturaj-gh.github.io)](https://github.com/ruturaj-gh/github-readme-stats"/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<h1> "Compilers & Languages"</h1>
+                                       <h1>Compilers & Languages</h1>
 <img align="center"  src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=black"/>
 <img align="center"  src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=black"/>
 <img align="center"  src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=black"/>
+
 
 
 <br></br>
@@ -20,7 +20,6 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-![Alt Text](https://c.tenor.com/58DNSt-Lvw0AAAAM/corgi-computer.gif) 
 
 
 
@@ -41,3 +40,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruturaj-gh&exclude_repo=github-readme-stats,ruturaj-gh.github.io)](https://github.com/ruturaj-gh/github-readme-stats)
 
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white) -->
+
+
+![Alt Text](https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif)
