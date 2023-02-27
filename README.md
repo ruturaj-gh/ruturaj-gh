@@ -5,41 +5,32 @@
 <img align="left" width=60% src ="https://github-readme-stats.vercel.app/api?username=ruturaj-gh&show_icons=true&theme=radical"/>
 <img align="left" width=35% src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ruturaj-gh&exclude_repo=github-readme-stats,ruturaj-gh.github.io)](https://github.com/ruturaj-gh/github-readme-stats"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-                                       <h1>Compilers & Languages</h1>
-<img align="center"  src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=black"/>
-<img align="center"  src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=black"/>
-<img align="center"  src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=black"/>
-
+<p align="center" size =50% >
+  <img src="https://github-profile-trophy.vercel.app/?username=ruturaj-gh&theme=onedark" alt="trophy" width="800" />
+</p>
+                                       <h1 align="center" style="font-family: Times New Roman;">Compilers & Languages</h1>
+<p align="center">
+<img   src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=black"/>
+<img   src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=black"/>
+<img   src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=black"/>
+<img   src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"/>
+<img   src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
+  
+</p>
 
 
 <br></br>
+<p align="center">
+<img   src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=black"/>
+<img   src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=black"/>
+<img   src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=black"/>
+<img   src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img   src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img   src="(https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+<img   src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img   src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
+</p>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=black)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=black)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-
-
-
-
-
-<!-- align="center"
-![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
-
-
-
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-
-
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) -->
-<!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruturaj-gh&exclude_repo=github-readme-stats,ruturaj-gh.github.io)](https://github.com/ruturaj-gh/github-readme-stats)
-
-![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white) -->
-
-
-![Alt Text](https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif)
+<p align="center">
+<img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="800"/>
+</p>
