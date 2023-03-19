@@ -1,4 +1,4 @@
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruturaj-gh&show_icons=true&theme=radical) -->
+
 
 [![@ruturaj_gh's Holopin board](https://holopin.me/ruturaj_gh)](https://holopin.io/@ruturaj_gh)
 
@@ -29,6 +29,8 @@
 <img   src="(https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 <img   src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img   src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
+<img   src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  
 </p>
 
 <p align="center">
